@@ -1,0 +1,4 @@
+1. Creating Numpy arrays
+2. Indexing and Selection on Arrays
+3. General Operations
+4. Exercises
